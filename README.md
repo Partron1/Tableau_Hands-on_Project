@@ -66,6 +66,8 @@ He also shared with me some key guidance as I work through my design process:
 ## Dashboard
 Dashboard features four charts and two legends.
 
+![Dashboard](Dashboard.png)
+
 - These charts include **Traffic volumes by month per year**, **Traffic volumes by hour of the day**, **Traffic volumes organized by weather patterns**, and a **circle chart for Holidays with highest traffic**. 
 Together, these charts address my stakeholders’ main interests: *comparing the traffic volume at different points in time and at different timescales, and examining holiday and weather patterns throughout the year.* 
 
