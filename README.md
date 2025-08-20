@@ -31,7 +31,7 @@ The team shared with me some chart ideas although they knew I had my ideas too. 
 
 **Chart 1:** Traffic Volume and Date Time
 
-Bar_chart.png
+![Bar Chart](Bar_chart.png)
 
 **Chart 2:** Traffic Volume, Date Time, and Weather Main
 
