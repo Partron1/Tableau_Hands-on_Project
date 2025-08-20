@@ -16,7 +16,7 @@ I explored how BI professional work with stakeholders in an actual business envi
 
 Cleaned and organized data in a .csv file from Minnesota Department of Transportation
 
-
+## Team collaboration:
 Throughout the project I received email correspondence from my supervisors and team members with helpful information, tips, and strategies for completing the project deliverables.
 
 **First Email:** Supervisor-Chart design
