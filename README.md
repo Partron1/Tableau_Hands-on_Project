@@ -32,24 +32,27 @@ I had the flexibility to work on the project in a way that will make me feel com
 
 The team shared with me some chart ideas although they knew I had my ideas too. They pointed to specifically in their call:
 
-**Chart 1:** Trend of Traffic Volume
+**Chart 1:** 
+Trend of Traffic Volume
 
 ![Line chart](Line_chart.png)
 
-**Chart 2:** Traffic Volume: Day of The Month With Hourly Traffic Breakdown
+**Chart 2:** 
+Traffic Volume: Day of The Month With Hourly Traffic Breakdown
 
 ![Heatmap](Heatmap.png)
 
-**Chart 3:** Traffic Volume By Weather Parttern
+**Chart 3:**
+Traffic Volume By Weather Parttern
 
 ![Bar Chart](Bar_chart.png)
 
-**Chart 4:** Traffic Volume on Holidays
+**Chart 4:** 
+Traffic Volume on Holidays
+I created a new column for this section using the code **“if [Holiday] = "None" then null else "X" end”.** This created a column I used to make a chart that compares only holiday traffic.
 
 ![Bubble chart](Bubble_chart.png)
-  
-- Holidays with highest traffic  
-I created a new column for this section using the code **“if [Holiday] = "None" then null else "X" end”.** This created a column I used to make a chart that compares only holiday traffic.
+   
 
 **Second Email:** 
 Team supervisor-**Dashboard organization**
@@ -87,4 +90,4 @@ Together, these charts address my stakeholders’ main interests: *comparing the
 
 - On top right corner of the dashboard I added a downloading buttom that can help users download to share or print dashboard
 
- **Note:**  *in other to make this dashboard user friendly and updated, it will periodically be iterated over sometime*
+ **Note:**  *In order to make this dashboard user friendly and updated, it will periodically be iterated*
