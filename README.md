@@ -12,12 +12,15 @@ Dashboard for Minnesota Department of Transportation to help their team monitor 
 
 I explored how BI professional work with stakeholders in an actual business environment to respond to their needs through project lifecycle.
 
-**Data source:** 
+**Data source:**
+
 Cleaned and organized data in a .csv file from Minnesota Department of Transportation
+
 
 **Throughout the project I received email correspondence from my supervisors and team members with helpful information, tips, and strategies for completing the project deliverables.**
 
-**First Email:**  
+**First Email:**
+
 Supervisor- **Chart design**
 
 He shared some insights that might help me make some decisions for the project
@@ -58,7 +61,8 @@ I created a new column for this section using the code **“if [Holiday] = "None
 ![Bubble chart](Bubble_chart.png)
    
 
-**Second Email:** 
+**Second Email:**
+
 Team supervisor-**Dashboard organization**
 
 He suggested I could add some tooltips or captions to give more details to the user when they hover over a mark in the current view.
