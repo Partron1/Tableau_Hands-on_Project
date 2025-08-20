@@ -41,6 +41,8 @@ The team shared with me some chart ideas although they knew I had my ideas too. 
 ![Bar Chart](Bar_chart.png)
 
 **Chart 4:** Traffic Volume on Holidays
+
+![Bubble chart](Bubble_chart.png)
   
 - Holidays with highest traffic  
 I created a new column for this section using the code **“if [Holiday] = "None" then null else "X" end”.** This created a column I used to make a chart that compares only holiday traffic.
