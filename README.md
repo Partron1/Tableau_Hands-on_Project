@@ -38,6 +38,8 @@ The team shared with me some chart ideas although they knew I had my ideas too. 
 
 **Chart 2:** Traffic Volume: Day of The Month With Hourly Traffic Breakdown
 
+![Heatmap](Heatmap.png)
+
 **Chart 3:** Traffic Volume By Weather Parttern
 
 ![Bar Chart](Bar_chart.png)
