@@ -29,9 +29,7 @@ They have been specific about the three charts they’re most interested in incl
 
 He shared some few specific columns that would be a good stating pace for what data to include: *date_time, traffic_volume, weather_main, and holiday.*
 He also shared that I may need to create custom columns and filters to the dataset in order to get the metrics I needed. 
-I had the flexibility to work on the project in a way that will make me feel comfortable.
-
-The team shared with me some chart ideas although they knew I had my ideas too. They pointed to specifically in their call:
+I had the flexibility to work on the project in a way that will make me feel comfortable. The team shared with me some chart ideas although they knew I had my ideas too. 
 
 **Chart 1:**
 
