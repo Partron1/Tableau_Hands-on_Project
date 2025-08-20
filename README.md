@@ -34,6 +34,8 @@ The team shared with me some chart ideas although they knew I had my ideas too. 
 
 **Chart 1:** Trend of Traffic Volume
 
+![Line chart](Line_chart.png)
+
 **Chart 2:** Traffic Volume: Day of The Month With Hourly Traffic Breakdown
 
 **Chart 3:** Traffic Volume By Weather Parttern
