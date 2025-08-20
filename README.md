@@ -12,6 +12,9 @@ Dashboard for Minnesota Department of Transportation to help their team monitor 
 
 I explored how BI professional work with stakeholders in an actual business environment to respond to their needs through project lifecycle.
 
+**Data source:** 
+Cleaned and organized data in a .csv file from Minnesota Department of Transportation
+
 **Throughout the project I received email correspondence from my supervisors and team members with helpful information, tips, and strategies for completing the project deliverables.**
 
 **First Email:**  
@@ -29,23 +32,15 @@ I had the flexibility to work on the project in a way that will make me feel com
 
 The team shared with me some chart ideas although they knew I had my ideas too. They pointed to specifically in their call:
 
-**Chart 1:** Traffic Volume and Date Time
+**Chart 1:** Trend of Traffic Volume
+
+**Chart 2:** Traffic Volume: Day of The Month With Hourly Traffic Breakdown
+
+**Chart 3:** Traffic Volume By Weather Parttern
 
 ![Bar Chart](Bar_chart.png)
 
-**Chart 2:** Traffic Volume, Date Time, and Weather Main
-
-**Chart 3:** Traffic Volume, Date Time, and a custom measure for Holidays
-
-**Data source:** 
-Cleaned and organized data in a .csv file from Minnesota Department of Transportation
-
-**Charts:**
-- Traffic volumes by month per year
-  
-- Traffic volumes by hour
-  
-- Traffic volumes by weather pattern
+**Chart 4:** Traffic Volume on Holidays
   
 - Holidays with highest traffic  
 I created a new column for this section using the code **“if [Holiday] = "None" then null else "X" end”.** This created a column I used to make a chart that compares only holiday traffic.
