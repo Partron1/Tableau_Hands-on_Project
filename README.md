@@ -30,6 +30,7 @@ I had the flexibility to work on the project in a way that will make me feel com
 The team shared with me some chart ideas although they knew I had my ideas too. They pointed to specifically in their call:
 
 **Chart 1:** Traffic Volume and Date Time
+Bar_chart.png
 
 **Chart 2:** Traffic Volume, Date Time, and Weather Main
 
