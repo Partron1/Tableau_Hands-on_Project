@@ -12,7 +12,7 @@ Dashboard for Minnesota Department of Transportation to help their team monitor 
 
 I explored how BI professional work with stakeholders in an actual business environment to respond to their needs through project lifecycle.
 
-**Data source:**
+## Data source:
 
 Cleaned and organized data in a .csv file from Minnesota Department of Transportation
 
