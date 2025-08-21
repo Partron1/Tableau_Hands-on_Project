@@ -78,7 +78,7 @@ Together, these charts address my stakeholders’ main interests: *comparing the
 
 - The legend specifies a separate color for each of the three years and traffic volume by day/hour represented in the data.
    
-- This visualization uses **only three years** of data in order to prioritize simplicity. If these charts featured data from all of the years, there would be too many lines and bars in the chart. This would make it much harder to read, and therefore much less effective as a visualization.
+- This visualization uses **only three years** of llatest data in order to prioritize simplicity. If these charts featured data from all of the years, there would be too many lines and bars in the chart. This would make it much harder to read, and therefore much less effective as a visualization.
      
 - In this dashboard, the line chart is placed at the top, alongside the legend. Since the legend applies to each of the charts, it’s important to place it at the top of the visualization.
    
@@ -90,6 +90,6 @@ Together, these charts address my stakeholders’ main interests: *comparing the
   
 - You can also find other trends: based on the line chart, it seems like the traffic volume for 2017 was generally higher than in 2016.
 
-- On top right corner of the dashboard I added a downloading buttom that can help users download to share or print dashboard
+- On top right corner of the dashboard I added a downloading buttom that can help users download to share or print dashboard and in the top left is a filter buttom.
 
  **Note:**  *In order to make this dashboard user friendly and updated, it will periodically be iterated*
