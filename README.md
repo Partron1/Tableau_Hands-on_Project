@@ -12,11 +12,11 @@ Dashboard for Minnesota Department of Transportation to help their team monitor 
 
 I explored how BI professional work with stakeholders in an actual business environment to respond to their needs through project lifecycle.
 
-## Data source:
+### Data source:
 
 Cleaned and organized data in a .csv file from Minnesota Department of Transportation
 
-## Team collaboration:
+### Team collaboration:
 Throughout the project I received email correspondence from my supervisors and team members with helpful information, tips, and strategies for completing the project deliverables.
 
 **First Email:** Supervisor-Chart design
@@ -68,7 +68,7 @@ He also shared with me some key guidance as I work through my design process:
 - Prioritize accessibility
 - Apply design principles
 
-## Dashboard
+### Dashboard
 Dashboard features four charts and two legends.
 
 ![Dashboard](Dashboard1.png)
