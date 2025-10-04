@@ -53,7 +53,7 @@ Traffic Volume By Weather Parttern
 Traffic Volume on Holidays
 I created a new column for this section using the code **“if [Holiday] = "None" then null else "X" end”.** This created a column I used to make a chart that compares only holiday traffic.
 
-![Bubble chart](Bubble_chart.png)
+![Bubble chart](Bubble_Chart.png)
    
 
 **Second Email:** Team supervisor-Dashboard organization
