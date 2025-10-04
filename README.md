@@ -46,7 +46,7 @@ Traffic Volume: Day of The Month With Hourly Traffic Breakdown
 
 Traffic Volume By Weather Parttern
 
-![Bar Chart](Bar_chart.png)
+![Bar Chart](Bar_chart1.png)
 
 **Chart 4:**
 
