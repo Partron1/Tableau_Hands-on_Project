@@ -34,7 +34,7 @@ I had the flexibility to work on the project in a way that will make me feel com
 
 Trend of Traffic Volume
 
-![Line chart](Line_chart.png)
+![Line chart](Traffic_trend.png)
 
 **Chart 2:**
 
