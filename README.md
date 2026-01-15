@@ -34,26 +34,26 @@ I had the flexibility to work on the project in a way that will make me feel com
 
 Trend of Traffic Volume
 
-![Line chart](Traffic_trend.png)
+![Line chart](images/Traffic_trend.png)
 
 **Chart 2:**
 
 Traffic Volume: Day of The Month With Hourly Traffic Breakdown
 
-![Heatmap](Heatmap.png)
+![Heatmap](images/Heatmap.png)
 
 **Chart 3:**
 
 Traffic Volume By Weather Parttern
 
-![Bar Chart](Bar_chart1.png)
+![Bar Chart](images/Bar_chart1.png)
 
 **Chart 4:**
 
 Traffic Volume on Holidays
 I created a new column for this section using the code **“if [Holiday] = "None" then null else "X" end”.** This created a column I used to make a chart that compares only holiday traffic.
 
-![Bubble chart](Bubble_Chart.png)
+![Bubble chart](images/Bubble_Chart.png)
    
 
 **Second Email:** Team supervisor-Dashboard organization
@@ -70,7 +70,7 @@ He also shared with me some key guidance as I work through my design process:
 ### Dashboard
 Dashboard features four charts and two legends.
 
-![Dashboard](Menasota_Dashboard.png)
+![Dashboard](images/Menasota_Dashboard.png)
 
 - These charts include **Traffic volumes by month per year**, **Traffic volumes by hour of the day**, **Traffic volumes organized by weather patterns**, and a **circle chart for Holidays with highest traffic**. 
 Together, these charts address my stakeholders’ main interests: *comparing the traffic volume at different points in time and at different timescales, and examining holiday and weather patterns throughout the year.* 
