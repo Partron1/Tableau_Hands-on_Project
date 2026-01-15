@@ -1,8 +1,8 @@
-# Tableau_Hands-on_Project
-### Minnesota Traffic Analysis 
+## Tableau_Hands-on_Project
+#### Minnesota Traffic Analysis 
 Dashboard for Minnesota Department of Transportation to help their team monitor traffic patterns.
 
-### Goal is to learn more about: 
+#### Goal is to learn more about: 
 - Traffic volume throughout the year; ideally organized by year, month, week, day, and hour
 - Traffic volume in different weather conditions
 - Traffic volume on different holidays
@@ -11,11 +11,11 @@ Dashboard for Minnesota Department of Transportation to help their team monitor 
 
 I explored how BI professional work with stakeholders in an actual business environment to respond to their needs through project lifecycle.
 
-### Data source:
+#### Data source:
 
 Cleaned and organized data in a .csv file from Minnesota Department of Transportation
 
-### Team collaboration:
+#### Team collaboration:
 Throughout the project I received email correspondence from my supervisors and team members with helpful information, tips, and strategies for completing the project deliverables.
 
 **First Email:** Supervisor-Chart design
@@ -67,7 +67,7 @@ He also shared with me some key guidance as I work through my design process:
 - Prioritize accessibility
 - Apply design principles
 
-### Dashboard
+#### Dashboard
 Dashboard features four charts and two legends.
 
 ![Dashboard](images/Menasota_Dashboard.png)
