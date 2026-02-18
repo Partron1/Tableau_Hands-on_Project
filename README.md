@@ -30,32 +30,6 @@ He shared some few specific columns that would be a good stating pace for what d
 He also shared that I may need to create custom columns and filters to the dataset in order to get the metrics I needed. 
 I had the flexibility to work on the project in a way that will make me feel comfortable. The team shared with me some chart ideas although they knew I had my ideas too. 
 
-**Chart 1:**
-
-Trend of Traffic Volume
-
-![Line chart](images/Traffic_trend.png)
-
-**Chart 2:**
-
-Traffic Volume: Day of The Month With Hourly Traffic Breakdown
-
-![Heatmap](images/Heatmap.png)
-
-**Chart 3:**
-
-Traffic Volume By Weather Parttern
-
-![Bar Chart](images/Bar_chart1.png)
-
-**Chart 4:**
-
-Traffic Volume on Holidays
-I created a new column for this section using the code **“if [Holiday] = "None" then null else "X" end”.** This created a column I used to make a chart that compares only holiday traffic.
-
-![Bubble chart](images/Bubble_Chart.png)
-   
-
 **Second Email:** Team supervisor-Dashboard organization
 
 He suggested I could add some tooltips or captions to give more details to the user when they hover over a mark in the current view.
