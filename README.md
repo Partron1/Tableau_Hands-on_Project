@@ -48,7 +48,7 @@ Dashboard features four charts and two legends.
 
 ![Dashboard](images/Dashboard_3.png)
 
-![Dashboard](images/Dashboard_3.png)
+![Dashboard](images/Dashboard_4.png)
 
 ![Dashboard](images/Dashboard_2.png)
 
