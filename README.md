@@ -48,7 +48,7 @@ Dashboard features four charts and two legends.
 
 ![Dashboard](images/Dashboard_3.png)
 
-![Dashboard](images/Dasboard_1.png)
+![Dashboard](images/Dashboard_2.png)
 
 - These charts include **Traffic volumes by month per year**, **Traffic volumes by hour of the day**, **Traffic volumes organized by weather patterns**, and a **circle chart for Holidays with highest traffic**. 
 Together, these charts address my stakeholders’ main interests: *comparing the traffic volume at different points in time and at different timescales, and examining holiday and weather patterns throughout the year.* 
