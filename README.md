@@ -1,6 +1,6 @@
 ## Tableau_Hands-on_Project
-#### Minnesota Traffic Analysis 
-Dashboard for Minnesota Department of Transportation to help their team monitor traffic patterns.
+#### New York Traffic Analysis 
+Dashboard for New York Department of Transportation to help their team monitor traffic patterns.
 
 #### Goal is to learn more about: 
 - Traffic volume throughout the year; ideally organized by year, month, week, day, and hour
