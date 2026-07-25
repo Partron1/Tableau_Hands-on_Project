@@ -1,5 +1,5 @@
 ## Traffic Analysis: Business Intelligence
-#### New York Traffic Analysis 
+#### New York City (NYC) Traffic Analysis 
 Dashboard for New York Department of Transportation to help their team monitor traffic patterns.
 
 #### Goal is to learn more about: 
@@ -13,7 +13,7 @@ I explored how BI professional work with stakeholders in an actual business envi
 
 #### Data source:
 
-Cleaned and organized data in a .csv file from Minnesota Department of Transportation
+Cleaned and organized data in a .csv file from New York Department of Transportation
 
 #### Team collaboration:
 Throughout the project I received email correspondence from my supervisors and team members with helpful information, tips, and strategies for completing the project deliverables.
@@ -57,7 +57,7 @@ Together, these charts address my stakeholders’ main interests: *comparing the
 
 - The legend specifies a separate color for each of the three years and traffic volume by day/hour represented in the data.
    
-- This visualization uses **only three years** of llatest data in order to prioritize simplicity. If these charts featured data from all of the years, there would be too many lines and bars in the chart. This would make it much harder to read, and therefore much less effective as a visualization.
+- This visualization uses **only three years** of latest data in order to prioritize simplicity. If these charts featured data from all of the years, there would be too many lines and bars in the chart. This would make it much harder to read, and therefore much less effective as a visualization.
      
 - In this dashboard, the line chart is placed at the top, alongside the legend. Since the legend applies to each of the charts, it’s important to place it at the top of the visualization.
    
